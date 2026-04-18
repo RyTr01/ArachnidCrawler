@@ -37,13 +37,13 @@ El programa descargará el HTML y lo imprimirá en consola.
 ## Estructura del Proyecto
 
 ArachnidCrawler/
-|
-|-- src/
+│
+├── src/
 |   |-main.cpp
-|
-|-- output/     # (futuro) archivos con resultados del crawler
-|
-|-- README.md
+│
+├── output/     # (futuro) archivos con resultados del crawler
+│
+└── README.md
 
 ## Limitaciones actuales
 
