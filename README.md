@@ -36,7 +36,7 @@ El programa descargará el HTML y lo imprimirá en consola.
 
 ## Estructura del Proyecto
 
-´´´
+```
 ArachnidCrawler/
 │
 ├── src/
@@ -45,7 +45,7 @@ ArachnidCrawler/
 ├── output/     # (futuro) archivos con resultados del crawler
 │
 └── README.md
-´´´
+```
 ## Limitaciones actuales
 
 - No parsea HTML
